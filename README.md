@@ -16,3 +16,4 @@
 
 
 
+- 📄 [LangGraph- Develop LLM powered AI agents with LangGraph](https://www.udemy.com/course/langgraph/?couponCode=BFCPSALE24)
